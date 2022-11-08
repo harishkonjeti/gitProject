@@ -3,3 +3,4 @@ This is my first git project
 integrated git with vscode
 
 edited in github
+edited in branch 2
