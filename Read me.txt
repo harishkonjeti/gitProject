@@ -5,7 +5,7 @@ integrated git with vscode
 edited in github local
 edited in github new
 edited in branch 2
-edited in branch first
+edited in branch 1
 
 committed in local first
 
