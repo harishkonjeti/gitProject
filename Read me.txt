@@ -7,6 +7,6 @@ edited in github new
 edited in branch 2
 edited in branch1
 
-committed in local
+committed in local first
 
 committed for 2nd time
