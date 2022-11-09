@@ -2,6 +2,6 @@ This is my first git project
 
 integrated git with vscode
 
-edited in github
+edited in github local
 edited in branch 2
 edited in branch1
