@@ -9,4 +9,4 @@ edited in branch first
 
 committed in local first
 
-committed for 2nd time
+committed for 2nd time in git
